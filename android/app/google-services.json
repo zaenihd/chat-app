@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882711681169",
+    "project_id": "chatapp-zaeni",
+    "storage_bucket": "chatapp-zaeni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882711681169:android:2d9eb438af12dacd5c4730",
+        "android_client_info": {
+          "package_name": "com.zaeniproject.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882711681169-23u6i1ivb3g77tc8bkevo81i2n3j8cup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaeniproject.chatapp",
+            "certificate_hash": "7cafdbf8e7cc91316cf895a5955b51915a4fdfcc"
+          }
+        },
+        {
+          "client_id": "882711681169-vujmhja6alts2pq4rk0nb90g4ftrr77d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDorqFihKzaAEj_1F0KgIylr1CxWSJ7MIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882711681169-vujmhja6alts2pq4rk0nb90g4ftrr77d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

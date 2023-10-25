@@ -1,0 +1,23 @@
+{
+    "connections": [
+        "hilman6262@gmail.com",
+        "fitriani@gmail.com"
+    ],
+    "chat": [
+        {
+            "pengirim": "hilman6262@gmail.com",
+            "penerima": "fitriani@gmail.com",
+            "pesan": "Halo fit, apa kabar ?",
+            "time": "2021-08-25T13:28:59.748721",
+            "isRead":true
+        },
+        {
+            "pengirim": "fitriani@gmail.com",
+            "penerima": "hilman6262@gmail.com",
+            "pesan": "Baik dika, kamu sendiri gimana ?",
+            "time": "2021-08-25T13:29:02.748721",
+            "isRead":false
+        }
+    ]
+}
+

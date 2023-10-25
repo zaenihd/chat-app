@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>882711681169-s7d8lg4d7pp1sc2ktc34r6qktd6r3l5m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.882711681169-s7d8lg4d7pp1sc2ktc34r6qktd6r3l5m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>882711681169-23u6i1ivb3g77tc8bkevo81i2n3j8cup.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqDCefUk4zszbT6p0sVzjKzLGO3EyG8iw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>882711681169</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zaeni-project.chatapp</string>
+	<key>PROJECT_ID</key>
+	<string>chatapp-zaeni</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatapp-zaeni.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:882711681169:ios:79848c5f32f3882b5c4730</string>
+</dict>
+</plist>
